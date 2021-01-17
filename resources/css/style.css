@@ -39,10 +39,10 @@ h1 {
 
 .block {
     position: relative;
-    width: 50px;
+    width: 5vw;
     margin: 0;
     padding: 0;
-    height: 50px;
+    height: 5vh;
     background: url(../img/bg.jpg) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
